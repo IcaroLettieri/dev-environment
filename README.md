@@ -1,5 +1,6 @@
-# gitconfig-global
+# 💻️ dev environment
 
+## gitconfig-global
 <!--ts-->
    * [Acesso a configuração do gitignore global]
       * [$ git config --global core.editor code]
